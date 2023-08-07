@@ -1,0 +1,36 @@
+.blog-header {
+    background-color: #333;
+    padding: 1rem 0;
+    color: #fff;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .blog-title {
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  .blog-nav ul {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+  }
+  
+  .blog-nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .blog-nav a:hover {
+    text-decoration: underline;
+  }
+  
