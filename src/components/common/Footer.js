@@ -7,7 +7,7 @@ function Footer() {
   return (
     <footer className="footer-container">
       <div className="footer-content">
-        © {new Date().getFullYear()} 나의 블로그. 모든 권리 보유.
+        © {new Date().getFullYear()} 블로그
       </div>
     </footer>
   );
